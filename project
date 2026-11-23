@@ -1,0 +1,369 @@
+SOFTWARE REQUIREMENTS SPECIFICATION (SRS)
+
+ Project Title: SUVASAM FOODS – Edible Oil Company Website
+
+Prepared By: K SAMKUMAR 
+Project Name: SUVASAM FOODS Website  
+Project Type: Business Website with Online Ordering  
+Development Platform: Google Antigravity  
+Document Type: Software Requirements Specification  
+
+
+ 1. INTRODUCTION
+
+1.1 Purpose of the Project
+
+SUVASAM FOODS is an edible oil company that wants to promote its products and reach more customers through an online platform.
+
+The main purpose of this project is to develop a professional and user-friendly website for the company. Through this website, customers can learn about the company, explore different edible oil products, view product details and place orders.
+
+Nowadays, many customers search for products through Google before purchasing them. Therefore, this website will also be designed to improve the company's online visibility through proper Search Engine Optimization (SEO).
+
+The website will help SUVASAM FOODS build its online presence, attract new customers and make product ordering easier.
+
+ 1.2 Scope of the Project
+
+The SUVASAM FOODS website will provide complete information about the company and its edible oil products.
+
+Customers can visit the website, learn about the company's background, explore available products and check their details.
+
+The website will include an ordering facility through which customers can submit their product requirements. They can also contact the company through WhatsApp or phone calls for further information.
+
+The website will be designed to work on computers, tablets and mobile phones.
+
+The major scope of this project includes:
+
+- Promoting the SUVASAM FOODS brand online.
+- Displaying all available edible oil products.
+- Providing product descriptions and images.
+- Allowing customers to place product orders.
+- Providing WhatsApp and phone contact options.
+- Improving the company's visibility on Google through SEO.
+- Providing an easy way for customers to communicate with the company.
+
+1.3 Objectives of the Project
+
+The main objectives of developing this website are:
+
+1. To create a professional online presence for SUVASAM FOODS.
+2. To advertise the company's edible oil products.
+3. To provide complete product information to customers.
+4. To make product ordering easier through the website.
+5. To increase customer enquiries and business opportunities.
+6. To make the website easily accessible on mobile phones and computers.
+7. To improve the website's position in Google search results through SEO techniques.
+8. To build customer trust by displaying company information and product details.
+
+ 1.4 Existing System
+
+Currently, customers may depend on direct communication, physical shops or other traditional methods to know about the company's products.
+
+These methods may not provide complete product information to customers who are searching online.
+
+Some limitations of the existing system are:
+
+- Limited online visibility.
+- Customers may not know all the available products.
+- Product information is not available in one place.
+- Customers need to contact the company directly for enquiries.
+- Advertising through traditional methods may reach only a limited number of people.
+
+ 1.5 Proposed System
+
+The proposed system is a website developed for SUVASAM FOODS to promote its edible oil products and provide an easy ordering facility.
+
+The website will display company information, product images, product descriptions and contact details.
+
+Customers can browse products, select the products they need and submit their order enquiries through an online order form or WhatsApp.
+
+The website will also follow SEO practices to help search engines understand its content and improve its chances of appearing in relevant Google search results.
+
+---
+
+ 2. SYSTEM REQUIREMENTS
+
+2.1 Hardware Requirements
+
+The following hardware is required to develop and access the website.
+
+- Computer or Laptop
+- Minimum 4 GB RAM
+- Internet Connection
+- Standard Keyboard and Mouse
+- Smartphone for mobile testing
+
+ 2.2 Software Requirements
+
+- Operating System: Windows 10 / Windows 11
+- Development Tool: Google Antigravity
+- Web Browser: Google Chrome
+- Frontend: HTML, CSS and JavaScript or suitable modern web technologies
+- Database / Backend: To be decided based on the final implementation requirements
+- Internet Connection for development and testing
+
+
+ 3. FUNCTIONAL REQUIREMENTS
+
+Functional requirements describe the main features that the website should provide to customers.
+
+ 3.1 Home Page
+
+The home page will be the first page customers see when they visit the website.
+
+It will contain:
+
+- SUVASAM FOODS company logo.
+- Attractive banner images.
+- Welcome message.
+- Short introduction about the company.
+- Featured edible oil products.
+- Highlights of the company's products.
+- Contact and order buttons.
+
+ 3.2 About Us Page
+
+This page will provide information about SUVASAM FOODS.
+
+It will include:
+
+- Company introduction.
+- Company background.
+- Business activities.
+- Company vision and mission.
+- Information about product quality.
+
+ 3.3 Products Page
+
+This page will display all edible oil products available from the company.
+
+The products may include:
+
+1. Groundnut Oil – கடலை எண்ணெய்
+2. Gingelly Oil – நல்லெண்ணெய்
+3. Coconut Oil – தேங்காய் எண்ணெய்
+4. Neem Oil – வேப்பெண்ணெய்
+5. Castor Oil – விளக்கெண்ணெய்
+
+Each product will display:
+
+- Product name.
+- Product image.
+- Product description.
+- Available quantity or packaging options.
+- Price, if provided by the company.
+- Order Now button.
+
+3.4 Product Details Page
+
+When customers select a particular product, they can view more information about it.
+
+This page will display the product name, images, description, available packaging sizes and other details provided by the company.
+
+ 3.5 Online Order Facility
+
+Customers can place product order requests through the website.
+
+The order form will collect the following information:
+
+- Customer name.
+- Mobile number.
+- Email address (optional).
+- Delivery address.
+- Product name.
+- Required quantity.
+- Additional message.
+
+After submitting the form, customers should receive an appropriate confirmation message or instructions for further communication.
+
+ 3.6 WhatsApp Enquiry
+
+Customers can directly contact the company through WhatsApp.
+
+When a customer clicks the WhatsApp button, it will open a WhatsApp conversation with the company's official contact number.
+
+This will make product enquiries and order communication easier.
+
+3.7 Contact Us Page
+
+The contact page will provide all necessary communication details.
+
+It will include:
+
+- Company phone number.
+- WhatsApp number.
+- Email address.
+- Business address.
+- Google Maps location, if available.
+- Contact enquiry form.
+
+ 3.8 Search Engine Optimization (SEO)
+
+SEO is an important feature of this project.
+
+The website will be designed in a way that helps Google and other search engines understand its content.
+
+The following SEO techniques will be included:
+
+- Proper page titles and descriptions.
+- Relevant keywords related to edible oils.
+- SEO-friendly website URLs.
+- Proper image names and alternative text.
+- Mobile-friendly design.
+- Fast-loading pages.
+- Sitemap and robots.txt configuration.
+- Google Search Console integration.
+- Relevant and useful website content.
+
+The aim is to improve the website's visibility when customers search for SUVASAM FOODS and its edible oil products.
+
+ 3.9 Mobile-Friendly Design
+
+The website will automatically adjust to different screen sizes.
+
+Customers should be able to browse products, read information and place order requests using mobile phones, tablets and computers.
+
+
+
+4. NON-FUNCTIONAL REQUIREMENTS
+
+Non-functional requirements describe how the website should perform.
+
+ 4.1 User-Friendly Interface
+
+The website should have a simple and attractive design. Customers should be able to find products and contact information without difficulty.
+
+ 4.2 Performance
+
+The website should load quickly and display images and content without unnecessary delays.
+
+ 4.3 Security
+
+Customer information submitted through the website should be handled safely. Contact forms and order details should be protected from unauthorized access.
+
+ 4.4 Reliability
+
+The website should work properly and provide correct information whenever customers access it.
+
+ 4.5 Compatibility
+
+The website should support commonly used browsers such as Google Chrome, Microsoft Edge and Firefox.
+
+ 4.6 Responsiveness
+
+The website should adjust properly to mobile phones, tablets, laptops and desktop computers.
+
+ 4.7 Maintainability
+
+The website should be easy to update when the company introduces new products, changes prices or modifies its contact details.
+
+
+
+ 5. MAJOR MODULES OF THE PROJECT
+
+The website will be divided into the following major modules:
+
+5.1 Home Module
+Displays the company introduction, banners, featured products and important website information.
+
+ 5.2 About Module
+Provides information about the company, its background, vision and mission.
+
+5.3 Product Module
+Displays the available edible oil products with images, names and descriptions.
+
+ 5.4 Order Module
+Allows customers to select products, enter their details and submit order requests.
+
+ 5.5 Contact Module
+Provides phone, WhatsApp, email and address information.
+
+ 5.6 SEO Module
+Helps improve the website's visibility in search engines through SEO-friendly content and technical settings.
+
+ 5.7 Customer Enquiry Module
+Allows customers to send questions and receive further information about products.
+
+
+
+ 6. USE CASE DESCRIPTION
+
+The main user of this website is the customer.
+
+The customer can perform the following activities:
+
+1. Open the SUVASAM FOODS website.
+2. View the home page.
+3. Read about the company.
+4. Browse the available edible oil products.
+5. Select a product.
+6. View product information.
+7. Submit an order request.
+8. Contact the company through WhatsApp or phone.
+9. Send enquiries through the contact form.
+
+The company representative can receive the enquiries and order requests and communicate with customers to confirm their orders.
+
+
+
+ 7. SYSTEM WORKFLOW
+
+The basic working process of the website is as follows:
+
+1. The customer visits the SUVASAM FOODS website.
+2. The home page displays the company and its products.
+3. The customer visits the products section.
+4. The customer selects the required edible oil.
+5. The customer views product details.
+6. The customer clicks the Order Now button.
+7. The customer enters the required details in the order form.
+8. The customer submits the order request.
+9. The company receives the order enquiry.
+10. The company contacts the customer to confirm the order and delivery details.
+
+
+ 8. ADVANTAGES OF THE PROPOSED SYSTEM
+
+- Provides an online identity for SUVASAM FOODS.
+- Helps advertise edible oil products.
+- Makes product information easily available.
+- Helps customers submit orders conveniently.
+- Improves communication between customers and the company.
+- Reduces dependence on traditional advertising methods.
+- Helps reach customers through Google Search.
+- Provides access through mobile phones and computers.
+- Supports the company's future business growth.
+
+
+
+
+
+
+
+
+
+
+
+ 9. FUTURE ENHANCEMENTS
+
+The website can be improved in the future by adding additional features such as:
+
+- Customer registration and login.
+- Shopping cart facility.
+- Online payment gateway.
+- Order tracking system.
+- Admin dashboard for managing products and orders.
+- Customer feedback and product reviews.
+- Discount and promotional offers.
+- Automatic order confirmation notifications.
+- Delivery status updates.
+
+
+ 10. CONCLUSION
+
+The SUVASAM FOODS website is proposed to provide an effective online platform for promoting the company's edible oil products and reaching more customers.
+
+Through this website, customers can easily learn about the company, explore its products and submit their order requests.
+
+The website will also focus on search engine optimization to improve the company's online visibility and help customers discover its products through Google.
+
+Overall, this project aims to support SUVASAM FOODS in developing its online presence, improving customer communication and expanding its business opportunities.
